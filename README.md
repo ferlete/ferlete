@@ -36,28 +36,40 @@ sempre buscando soluções sólidas, bem documentadas e sustentáveis no longo p
 - JavaScript / TypeScript
 - Node.js
 - PHP
-- Python (automação e scripts)
+- Python
+- Java
+- C/C++
+- Assembly
 
 **Frontend**
 - React
+- React Native
+- Angular
 - Vite
 - HTML5 / CSS3
 
 **Backend & Integrações**
 - APIs REST
 - Webhooks
-- N8N (automação e orquestração)
+- N8N
+- Java
+- Quarkus
+- Spring-boot
 
 **Banco de Dados**
 - PostgreSQL
 - MySQL
 - SQLite
+- Oracle
+- SQL Server
 
 **Infraestrutura & DevOps**
 - Linux
 - Docker / Docker Compose
+- Portainer
 - Nginx
 - Git / GitHub
+- Dev/Azure
 
 ---
 
