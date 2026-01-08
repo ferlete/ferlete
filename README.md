@@ -1,16 +1,95 @@
-## Hi there 👋
+# Valter Ferlete
 
-<!--
-**ferlete/ferlete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Profissional de Tecnologia da Informação  
+⚙️ Sistemas • Automação • Infraestrutura • Desenvolvimento • Integrações  
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Sobre mim
+
+Profissional de Tecnologia da Informação com ampla experiência prática e acadêmica,
+atuando ao longo dos anos em **desenvolvimento de sistemas, infraestrutura, automação de processos, suporte avançado e integração de tecnologias**.
+
+Minha trajetória envolve desde ambientes corporativos até projetos próprios,
+com forte foco em **soluções funcionais, estabilidade de sistemas, segurança da informação e eficiência operacional**.
+
+Tenho perfil analítico, visão sistêmica e facilidade em transitar entre áreas técnicas e estratégicas,
+sempre buscando soluções sólidas, bem documentadas e sustentáveis no longo prazo.
+
+---
+
+## 🛠️ Áreas de Atuação
+
+- Desenvolvimento de sistemas e aplicações web
+- Automação de processos e integrações (APIs, workflows)
+- Infraestrutura e serviços em ambiente Linux
+- Banco de dados e modelagem de informações
+- Suporte técnico avançado e arquitetura de soluções
+- Implantação, manutenção e otimização de sistemas
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+**Linguagens & Plataformas**
+- JavaScript / TypeScript
+- Node.js
+- PHP
+- Python (automação e scripts)
+
+**Frontend**
+- React
+- Vite
+- HTML5 / CSS3
+
+**Backend & Integrações**
+- APIs REST
+- Webhooks
+- N8N (automação e orquestração)
+
+**Banco de Dados**
+- PostgreSQL
+- MySQL
+- SQLite
+
+**Infraestrutura & DevOps**
+- Linux
+- Docker / Docker Compose
+- Nginx
+- Git / GitHub
+
+---
+
+## 📌 Experiência
+
+- Atuação contínua em projetos de TI com foco em **resolução de problemas reais**
+- Participação em todas as fases do ciclo de vida de sistemas
+- Experiência com ambientes produtivos, migração e manutenção de sistemas legados
+- Forte preocupação com documentação, versionamento e boas práticas
+
+> Detalhamento completo da trajetória acadêmica e profissional disponível no Currículo Lattes.
+
+---
+
+## 📂 Repositórios
+
+Neste GitHub você encontrará:
+- Projetos funcionais e experimentais
+- Provas de conceito
+- Automação de processos
+- Soluções aplicadas a problemas reais
+
+Cada repositório contém documentação clara sobre objetivos, tecnologias e uso.
+
+---
+
+## 📫 Contato
+
+- 🌐 Site: https://gotasdealfazema.com.br
+- 💼 Currículo Lattes: (link)
+- 🔗 LinkedIn: (link, se desejar)
+
+---
+
+> “Tecnologia bem aplicada deve simplificar processos, não complicá-los.”
