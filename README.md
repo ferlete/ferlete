@@ -98,9 +98,9 @@ Cada repositório contém documentação clara sobre objetivos, tecnologias e us
 
 ## 📫 Contato
 
-- 🌐 Site: [https://ferlete.com.br](https://ferlete.com.br/)
-- 💼 Currículo Lattes: [(link)](http://lattes.cnpq.br/7914959262413741)
-- 🔗 LinkedIn: [(link, se desejar)](https://www.linkedin.com/in/valter-ferlete-57853a20/)
+- 🌐 Site: [Site Pessoal](https://ferlete.com.br/)
+- 💼 Currículo Lattes: [(Curriculum Lattes)](http://lattes.cnpq.br/7914959262413741)
+- 🔗 LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/valter-ferlete-57853a20/)
 
 ---
 
